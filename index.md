@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: Man, You Better Read My F*&@ing Blog!!!
 description: 
-image: 
+image: audio-image-180x180.jpg
 author: 
 nav-menu: 
 ---
