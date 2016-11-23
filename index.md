@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Hi, my name is Forty
+landing-title: Man, You Better Read My F*&@ing Blog!!!
 description: 
 image: 
 author: 
