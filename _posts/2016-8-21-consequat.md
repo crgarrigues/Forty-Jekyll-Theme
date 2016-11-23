@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Consequat
+title: Better Is a Verb
 description: Ipsum dolor sit amet
 image: assets/images/FaceAgain2.jpg
 ---
