@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Man, You Better Read My F*&@ing Blog!!!
+landing-title: hi there...
 description: 
 image: audio-image-180x180.jpg
 author: 
